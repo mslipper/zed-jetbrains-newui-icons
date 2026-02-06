@@ -120,7 +120,7 @@
                     "path": "./icons/tsx_dark.svg"
                 },
                 "ruby": {
-                    "path": "./icons/ruby_dark.svg"
+                    "path": "./icons/ruby.svg"
                 },
                 "rust": {
                     "path": "./icons/rustFile_dark.svg"
